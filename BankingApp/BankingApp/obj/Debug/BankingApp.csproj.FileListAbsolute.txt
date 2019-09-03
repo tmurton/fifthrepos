@@ -12,3 +12,6 @@ D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Deb
 D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
 D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.exe
 D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+D:\TAFE\Y2S1\5TSD\W5\investment\fifthrepos\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+D:\TAFE\Y2S1\5TSD\W5\investment\fifthrepos\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+D:\TAFE\Y2S1\5TSD\W5\investment\fifthrepos\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
